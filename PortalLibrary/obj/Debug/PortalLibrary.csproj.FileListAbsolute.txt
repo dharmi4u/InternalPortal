@@ -1,0 +1,12 @@
+E:\Projects\NewsPortal\InternalPortal\PortalLibrary\bin\Debug\PortalLibrary.dll.config
+E:\Projects\NewsPortal\InternalPortal\PortalLibrary\bin\Debug\PortalLibrary.dll
+E:\Projects\NewsPortal\InternalPortal\PortalLibrary\bin\Debug\PortalLibrary.pdb
+E:\Projects\NewsPortal\InternalPortal\PortalLibrary\bin\Debug\BusinessObjects.dll
+E:\Projects\NewsPortal\InternalPortal\PortalLibrary\bin\Debug\DataLibrary.dll
+E:\Projects\NewsPortal\InternalPortal\PortalLibrary\bin\Debug\EntityFramework.dll
+E:\Projects\NewsPortal\InternalPortal\PortalLibrary\bin\Debug\BusinessObjects.pdb
+E:\Projects\NewsPortal\InternalPortal\PortalLibrary\bin\Debug\DataLibrary.pdb
+E:\Projects\NewsPortal\InternalPortal\PortalLibrary\bin\Debug\EntityFramework.xml
+E:\Projects\NewsPortal\InternalPortal\PortalLibrary\obj\Debug\PortalLibrary.csprojResolveAssemblyReference.cache
+E:\Projects\NewsPortal\InternalPortal\PortalLibrary\obj\Debug\PortalLibrary.dll
+E:\Projects\NewsPortal\InternalPortal\PortalLibrary\obj\Debug\PortalLibrary.pdb

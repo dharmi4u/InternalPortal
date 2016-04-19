@@ -1,0 +1,8 @@
+E:\Projects\NewsPortal\InternalPortal\PortalService\bin\PortalService.dll.config
+E:\Projects\NewsPortal\InternalPortal\PortalService\bin\PortalService.dll
+E:\Projects\NewsPortal\InternalPortal\PortalService\bin\PortalService.pdb
+E:\Projects\NewsPortal\InternalPortal\PortalService\bin\PortalLibrary.dll
+E:\Projects\NewsPortal\InternalPortal\PortalService\bin\PortalLibrary.pdb
+E:\Projects\NewsPortal\InternalPortal\PortalService\obj\Debug\PortalService.csprojResolveAssemblyReference.cache
+E:\Projects\NewsPortal\InternalPortal\PortalService\obj\Debug\PortalService.dll
+E:\Projects\NewsPortal\InternalPortal\PortalService\obj\Debug\PortalService.pdb

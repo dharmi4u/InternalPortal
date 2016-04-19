@@ -1,0 +1,5 @@
+E:\Projects\NewsPortal\InternalPortal\BusinessObjects\bin\Debug\BusinessObjects.dll
+E:\Projects\NewsPortal\InternalPortal\BusinessObjects\bin\Debug\BusinessObjects.pdb
+E:\Projects\NewsPortal\InternalPortal\BusinessObjects\obj\Debug\BusinessObjects.csprojResolveAssemblyReference.cache
+E:\Projects\NewsPortal\InternalPortal\BusinessObjects\obj\Debug\BusinessObjects.dll
+E:\Projects\NewsPortal\InternalPortal\BusinessObjects\obj\Debug\BusinessObjects.pdb
