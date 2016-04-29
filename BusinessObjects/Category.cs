@@ -9,12 +9,14 @@ namespace InternalPortal.DataLayer.BusinessObjects
 {
     public class Category
     {
-        [Required]
-        public int CatId { get; set; }
+        [Key]
+        public int CategoryId { get; set; }
 
         [Required]
         public string CategoryName { get; set; }
 
-        public IEnumerable<Category> SubCategories { get; set; }
+        public ICollection<Category> SubCategories { get; set; }
+
+        public ICollection<News> News { get; set; }
     }
 }
